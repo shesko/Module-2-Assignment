@@ -50,6 +50,8 @@ h2 {
 p {
   margin: 7px;
   font-size: 12px;
+  padding: 5px;
+  padding-top: 0px
 }
 
 /********** Large devices only **********/
